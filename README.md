@@ -44,10 +44,13 @@ python3 main.py     # write /output/entry.png (deterministic, no network)
 
 ## Status
 
-DRAFT (21 Nov 2026, ~16:45 WIB): repo and pipeline are ready; the draft
-image uses headlines from the morning of 21 Nov, while the news day is
-still running. The final image — full-day headlines, re-verified — is
-rendered on 22 Nov 2026. Deadline: 23 Nov 2026, 07:00 WIB.
+FINAL (22 Nov 2026, ~07:30 WIB): the full day of Sat 21 Nov 2026 is
+closed and every headline was re-verified against live sources before
+rendering. Lead: Russia's biggest air raid of the year on Kyiv (404
+drones, 111 missiles, 8 killed, 28 hurt). Market numbers are the
+Friday 20 Nov closes — Saturday markets are shut. Not yet submitted:
+submission needs the owner's explicit approval after he reviews the
+final image. Deadline: 23 Nov 2026, 07:00 WIB.
 
 ---
 

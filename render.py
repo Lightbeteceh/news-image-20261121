@@ -236,9 +236,9 @@ def main():
                    typeface("black", 30), PAGE_W - hx - 24, NAVY, spacing=4)
     y = draw_lines(draw, hx, y + 8, data["lead"]["standfirst"],
                    typeface("regular", 15), PAGE_W - hx - 24, BODY, spacing=3)
-    facts = ["110+ missiles fired in one night",
-             "9 killed, 28 injured in the capital",
-             "Power cut in 11 regions of Ukraine"]
+    facts = ["404 drones and 111 missiles in one night",
+             "8 killed, 28 injured in Kyiv and Lviv",
+             "Three Dnipro bridges hit in the capital"]
     fy = y + 14
     for fact in facts:
         draw.rectangle([hx, fy + 4, hx + 8, fy + 12], fill=RULE_RED)
